@@ -8,6 +8,10 @@
       <li><router-link to="/demo4"><button>Demo4 Compute</button></router-link></li>
       <li><router-link to="/demo5"><button>Demo5 Binding</button></router-link></li>
       <li><router-link to="/demo6"><button>Demo6 Form</button></router-link> </li>
+      <li><router-link to="/demo7"><button>Demo7 V-Slot</button></router-link> </li>
+      <li><router-link to="/demo8"><button>Demo8 Condition</button></router-link> </li>
+      <li><router-link to="/demo9"><button>Demo9 Loop</button></router-link> </li>
+      <li><router-link to="/demo10"><button>Demo10 Lifecycle Hooks</button></router-link> </li>
     </ul>
     </div>
 </template>
@@ -24,6 +28,5 @@ export default {
 
   li{
     display: inline;
-    margin-right: 8px;
   }
 </style>

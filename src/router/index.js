@@ -6,6 +6,10 @@ import Demo3 from '../views/Demo3_Data.vue'
 import Demo4 from '../views/Demo4_Compute.vue'
 import Demo5 from '../views/Demo5_Binding.vue'
 import Demo6 from '../views/Demo6_Form.vue'
+import Demo7 from '../views/Demo7_Slot.vue'
+import Demo8 from '../views/Demo8_Condition.vue'
+import Demo9 from '../views/Demo9_Loop.vue'
+import Demo10 from '../views/Demo10_LifecycleHooks.vue'
 
 const routes = [
   {
@@ -42,6 +46,26 @@ const routes = [
     path: '/demo6',
     name: 'demo6',
     component: Demo6
+  },
+  {
+    path: '/demo7',
+    name: 'demo7',
+    component: Demo7
+  },
+  {
+    path: '/demo8',
+    name: 'demo8',
+    component: Demo8
+  },
+  {
+    path: '/demo9',
+    name: 'demo9',
+    component: Demo9
+  },
+  {
+    path: '/demo10',
+    name: 'demo10',
+    component: Demo10
   }
 ]
 
