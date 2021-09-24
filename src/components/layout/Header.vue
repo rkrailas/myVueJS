@@ -12,6 +12,9 @@
       <li><router-link to="/demo8"><button>Demo8 Condition</button></router-link> </li>
       <li><router-link to="/demo9"><button>Demo9 Loop</button></router-link> </li>
       <li><router-link to="/demo10"><button>Demo10 Lifecycle Hooks</button></router-link> </li>
+      <li><router-link to="/demo11"><button>Demo11 Variable and State</button></router-link> </li>
+      <li><router-link to="/demo12"><button>Demo12 Ref</button></router-link> </li>
+      <li><router-link to="/demo13"><button>Demo13 Filter</button></router-link> </li>
     </ul>
     </div>
 </template>

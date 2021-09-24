@@ -11,7 +11,7 @@
 import Header from "@/components/layout/Header.vue";
 import Footer from "@/components/layout/Footer.vue";
 import Content from "@/components/layout/Content.vue"
-import moment from "moment";
+import moment from "moment"
 
 export default {
   name: "app",
